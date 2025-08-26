@@ -1,0 +1,11 @@
+# HTTP client with async + HTTP/2 support
+httpx[http2]==0.27.0
+
+# Progress bar
+tqdm==4.66.4
+
+# HTML parsing (if parse_listing uses BeautifulSoup)
+beautifulsoup4==4.12.3
+lxml==5.2.2
+
+# Optional: logging & asyncio are part of Python stdlib (no need to add)
